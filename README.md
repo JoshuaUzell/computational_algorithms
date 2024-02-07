@@ -8,4 +8,10 @@ This repo's purpose is to showcase my work for the Computational Theory Module i
 This notebook goes over the numbers game problem in relation to the game show Countdown. The goal of this notebook is to explain the problem that is trying to be solved and then offer various solutions to the problem. We'll start off with a rough solution that isn't very efficient and then we'll gradually implement other more efficient solutions as we progress through the assessment. 
 
 # How to run the code
+1. Install the following pieces of software:
+    - Anaconda
+    - Visual Studio Code
+    - Python
+2. Clone the Repo onto your machine
+3. Open up the Repo in Visual Studio Code
 
