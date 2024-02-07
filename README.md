@@ -1,2 +1,11 @@
-# computational_algorithms
-This repo will store all code related to my computational algorithms project.
+# Computational Algorithms
+By Joshua Uzell
+
+# Purpose of repo
+
+
+# countdown.ipynb
+
+
+# How to run the code
+
